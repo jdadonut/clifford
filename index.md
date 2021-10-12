@@ -1,4 +1,3 @@
-# Clifford
 Clifford is a (upcoming) CLI Discord client built on C# with the Terminal.Gui package programmed with security in mind. 
 
 ## Features
