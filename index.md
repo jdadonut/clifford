@@ -2,6 +2,7 @@ Clifford is a (upcoming) CLI Discord client built on C# with the Terminal.Gui pa
 
 ## Features
 
+- Works (soon:tm:)
 - Requires password upon opening (soon:tm:)
 - Encrypts user data (soon:tm:)
 - Compressed Cache  (soon:tm:)
