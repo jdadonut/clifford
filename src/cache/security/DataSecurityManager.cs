@@ -1,6 +1,0 @@
-
-
-namespace Clifford.Cache.Security
-{
-    
-}
